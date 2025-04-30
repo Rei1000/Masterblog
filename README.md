@@ -25,7 +25,7 @@ It’s a simple blog application with basic CRUD functionality.
 ### Run Locally
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Masterblog.git
+git clone https://github.com/Rei1000/Masterblog.git
 cd Masterblog
 pip install -r requirements.txt
 python app.py
